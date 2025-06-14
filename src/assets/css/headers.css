@@ -1,0 +1,12 @@
+.logo {
+    width: 20%;
+    max-width: 200px;
+    min-width: 180px;
+}
+
+nav {
+    border-bottom: var(--border-bottom);
+    border-image: var(--border-image);
+    border-image-slice: var(--border-image-slice);
+    color: var(--color-blue) !important;
+}
